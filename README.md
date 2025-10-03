@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank2327&label=Profile%20views&color=0e75b6&style=flat" alt="shashank2327" /> </p>
 
 - 🎓 I'm currently pursuing Bachelor of Technology in Electronics and Communication Engineering from IIT (ISM) Dhanbad.
-- I have created android projects as well as full stack projects using MERN.
+- 🚀 I have created android projects as well as full stack projects using MERN.
 - 🌱 Currently Working on **AWS and Cloud.**
 
 <h3 align="left">Connect with me:</h3>
