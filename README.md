@@ -5,7 +5,7 @@
 
 - 🎓 I'm currently pursuing Bachelor of Technology in Electronics and Communication Engineering from IIT (ISM) Dhanbad.
 - 🚀 I have created android projects as well as full stack projects using MERN.
-- 🌱 Currently Working on **AWS and Cloud.**
+- 🌱 Currently Learning Cloud and Devops**
 
 **Connect with me:**
 
